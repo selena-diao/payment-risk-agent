@@ -15,3 +15,6 @@
 https://udify.app/workflow/PfsAkuKoh5SjouAZ
 ## 运行截图
 <img width="1504" height="817" alt="image" src="https://github.com/user-attachments/assets/e907a226-2166-4ef9-b15b-e669e4d0c48e" />
+## 说明
+当前工具调用使用mock API模拟数据返回，
+实际生产环境可替换为真实风控系统API接口。
